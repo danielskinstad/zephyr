@@ -35,6 +35,9 @@ Zephyr depends on several categories of modules, including but not limited to:
 Additionally, in some cases modules (particularly vendor HALs) can contain
 references to optional :ref:`binary blobs <bin-blobs>`.
 
+For a list of external modules that can be integrated with Zephyr, see
+:ref:`west_projects_index`.
+
 This page summarizes a list of policies and best practices which aim at
 better organizing the workflow in Zephyr modules.
 
